@@ -1,0 +1,64 @@
+body{
+	background-color: #333333;
+}
+#banner{
+	width: 98%;
+	height: 300px;
+	margin: auto;
+	margin-top: 20px;
+	background-image: url(images/train.jpg);
+	background-size: cover;
+	font-size: 40px;
+	text-align: center:
+	padding-top: 20px;
+	color: white;
+	text-shadow: 1px 1px 1px #333333;
+}
+span{
+	margin-left: 45px;
+	position: relative;
+	top: 10px;
+}
+#table-box{
+	font-size: 18px;
+	width: 98%;
+	margin: auto;
+	margin-top: 20px;
+}
+table{
+	background-color: white;
+	width: 100%;
+	border: 2px outset gray;
+	border-collapse: collapse;
+	padding: 0px;
+}
+th{
+	border: 1px solid black;
+	border-collapse: collapse	
+}
+td{
+	padding: 5px 0 5px 15px;
+	border-bottom: 1px dotted #CCCCCC;
+}
+
+#form-box{
+	font-size: 18px;
+	background-color: white;
+	border: 2px outset gray;
+	width: 98%;
+	margin: auto;
+	margin-top: 20px;
+}
+.form-group{
+	padding: 5px 0 0 40px;
+}
+p{
+	margin-left: 20px;
+	font-weight: bold;
+}
+button{
+	height: 40px
+	width: 80px;
+	margin: 10px 0 25px 40px;
+}
+
